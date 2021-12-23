@@ -1,0 +1,50 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Firts_Steps/Basics.sol": "Primer_Contrato"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Firts_Steps/Basics.sol": {
+			"keccak256": "0x640aca193852c233b32becdaa173c55d408f5f4bff887f2ae81f26843f144098",
+			"urls": [
+				"bzz-raw://e6c88269d451af670740457e04ab4c67ff3cfa87079f238a1f5f1565a806c01e",
+				"dweb:/ipfs/QmXPCcAatFopRfvkZBYQQEWZksYmgSLd5sPBd4m9f18w2s"
+			]
+		}
+	},
+	"version": 1
+}
