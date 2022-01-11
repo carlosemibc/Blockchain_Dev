@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Tipos de Variables y Operadores/VariablesEnteras.sol": "enteros"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Tipos de Variables y Operadores/VariablesEnteras.sol": {
+			"keccak256": "0x62dffbbd700b1cf699ef523afc6cb65830464de2e638f45aa9f9c99514910b47",
+			"urls": [
+				"bzz-raw://d492c6010a2c6c8d648b6ee21adde33b42fd2d5b19ddf2d97e0f8b83ef861c82",
+				"dweb:/ipfs/QmSNLS87fQq5uygrTAZaRwY3a721DUVpNkPisgAC4jZ4ue"
+			]
+		}
+	},
+	"version": 1
+}
